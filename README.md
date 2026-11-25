@@ -4,7 +4,9 @@
 
 Administro tanto sistemas Windows como Linux. Todavía me ilusiono dando clases y tengo una profesión que me gusta.
 
-## Cursos impartidos
+<img src="img/Hechicero_Linux_Lucha_Contra_Tux.gif" alt="El hechicero de Linux y Tux en acción" width="480">
+
+## Últimos cursos impartidos
 
 | Entidad | Curso |
 | --- | --- |
@@ -13,7 +15,9 @@ Administro tanto sistemas Windows como Linux. Todavía me ilusiono dando clases 
 | OpenWebinars | PowerShell para principiantes |
 | OpenWebinars | PowerShell para administradores |
 
-[Mi perfil docente en OpenWebinars](https://openwebinars.net/profesores/manuel-dominguez/)![alt text](image.png)
+[Mi perfil docente en OpenWebinars](https://openwebinars.net/profesores/manuel-dominguez/)
+
+<img src="img/image.GIF" alt="Mi perfil docente en OpenWebinars" width="320">
 
 ## Materiales para el aula
 
@@ -23,13 +27,14 @@ Administro tanto sistemas Windows como Linux. Todavía me ilusiono dando clases 
 | [Inteligencia artificial](https://github.com/mftienda/IA) | Buscadores, fundamentos de IA, uso responsable, agentes y modelos locales. |
 | [GitHub Pages](https://github.com/mftienda/Pagina-Web-Github) | Guía para publicar una web desde un repositorio de GitHub. |
 
+[Ver todos mis repositorios](https://github.com/mftienda?tab=repositories)
+
 ## Fuera del aula
 
 En mi tiempo libre juego al pádel. En esta imagen, Tux, la mascota de Linux, también se anima a entrar en la pista.
 
-![Manuel y Tux se saludan en una pista de pádel](img/padelSaludoTux.jpg)
+<img src="img/padelSaludoTux.jpg" alt="Manuel y Tux se saludan en una pista de pádel" width="320">
 
-Mi serie favorita es **Stranger Things**. También comparto dos piezas de fantasía digital.
+Mi serie favorita es **Stranger Things**. Aquí comparto una ilustración de fantasía.
 
-- [Ilustración de fantasía](img/DemoGorgon.png)
-- [Vídeo del hechicero de Linux y Tux](img/Hechicero_Linux_Lucha_Contra_Tux.mp4)
+<img src="img/DemoGorgon.png" alt="Ilustración de fantasía" width="320">
