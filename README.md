@@ -1,8 +1,8 @@
-# Hola, soy Manuel Fco. Domínguez Tienda 👋
+# Hola, soy Manuel Domínguez 👋
 
-**Físico de formación, administrador de sistemas Windows y Linux y docente de informática.**
+**Físico de formación, informático de profesión y docente por vocación.**
 
-En GitHub comparto apuntes y guías que preparo para mis clases sobre administración de sistemas, herramientas de desarrollo e inteligencia artificial.
+Administro tanto sistemas Windows como Linux. Todavía me ilusiono dando clases y tengo una profesión que me gusta.
 
 ## Cursos impartidos
 
@@ -13,7 +13,7 @@ En GitHub comparto apuntes y guías que preparo para mis clases sobre administra
 | OpenWebinars | PowerShell para principiantes |
 | OpenWebinars | PowerShell para administradores |
 
-[Mi perfil docente en OpenWebinars](https://openwebinars.net/profesores/manuel-dominguez/)
+[Mi perfil docente en OpenWebinars](https://openwebinars.net/profesores/manuel-dominguez/)![alt text](image.png)
 
 ## Materiales para el aula
 
