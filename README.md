@@ -19,7 +19,7 @@ Administro tanto sistemas Windows como Linux. Todavía me ilusiono dando clases 
 
 <img src="img/image.GIF" alt="Mi perfil docente en OpenWebinars" width="320">
 
-## Materiales para el aula
+## Nuevos materiales para el aula
 
 <!-- MATERIALES:INICIO -->
 | Repositorio | Contenido |
