@@ -1,16 +1,35 @@
-## Hi there 👋
+# Hola, soy Manuel Fco. Domínguez Tienda 👋
 
-<!--
-**mftienda/mftienda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Físico de formación, administrador de sistemas Windows y Linux y docente de informática.**
 
-Here are some ideas to get you started:
+En GitHub comparto apuntes y guías que preparo para mis clases sobre administración de sistemas, herramientas de desarrollo e inteligencia artificial.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Cursos impartidos
+
+| Entidad | Curso |
+| --- | --- |
+| CEP de Castilleja (Sevilla) | Introducción a Proxmox |
+| CEP de Castilleja (Sevilla) | Introducción a Kubernetes |
+| OpenWebinars | PowerShell para principiantes |
+| OpenWebinars | PowerShell para administradores |
+
+[Mi perfil docente en OpenWebinars](https://openwebinars.net/profesores/manuel-dominguez/)
+
+## Materiales para el aula
+
+| Repositorio | Contenido |
+| --- | --- |
+| [VS Code](https://github.com/mftienda/VScode) | Extensiones, configuración y sincronización entre equipos. |
+| [Inteligencia artificial](https://github.com/mftienda/IA) | Buscadores, fundamentos de IA, uso responsable, agentes y modelos locales. |
+| [GitHub Pages](https://github.com/mftienda/Pagina-Web-Github) | Guía para publicar una web desde un repositorio de GitHub. |
+
+## Fuera del aula
+
+En mi tiempo libre juego al pádel. En esta imagen, Tux, la mascota de Linux, también se anima a entrar en la pista.
+
+![Manuel y Tux se saludan en una pista de pádel](img/padelSaludoTux.jpg)
+
+Mi serie favorita es **Stranger Things**. También comparto dos piezas de fantasía digital.
+
+- [Ilustración de fantasía](img/DemoGorgon.png)
+- [Vídeo del hechicero de Linux y Tux](img/Hechicero_Linux_Lucha_Contra_Tux.mp4)
