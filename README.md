@@ -22,11 +22,14 @@ Administro tanto sistemas Windows como Linux. Todavía me ilusiono dando clases 
 ## Nuevos materiales para el aula
 
 <!-- MATERIALES:INICIO -->
+
 | Repositorio | Contenido |
 | --- | --- |
-| [VS Code](https://github.com/mftienda/VScode) | Extensiones, configuración y sincronización entre equipos. |
-| [Inteligencia artificial](https://github.com/mftienda/IA) | Buscadores, fundamentos de IA, uso responsable, agentes y modelos locales. |
-| [GitHub Pages](https://github.com/mftienda/Pagina-Web-Github) | Guía para publicar una web desde un repositorio de GitHub. |
+| [Mi-GitHub-Actions](https://github.com/mftienda/Mi-GitHub-Actions) | Mi GitHub Actions |
+| [IA](https://github.com/mftienda/IA) | IA |
+| [Pagina-Web-Github](https://github.com/mftienda/Pagina-Web-Github) | Pagina-Web-Github |
+| [Prometheus-y-Grafana](https://github.com/mftienda/Prometheus-y-Grafana) | Prometheus y Grafana |
+
 <!-- MATERIALES:FIN -->
 
 [Ver todos mis repositorios](https://github.com/mftienda?tab=repositories)
